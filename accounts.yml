@@ -3,4 +3,4 @@ spring:
     name: "accounts"
 
 build:
-  version: "3.0 (DEV)"
+  version: "4.0 (Git-DEV)"
