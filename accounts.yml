@@ -4,3 +4,9 @@ spring:
 
 build:
   version: "4.0 (Git-DEV)"
+
+info:
+  app:
+    name: ${spring.application.name}
+    description: "Waffle Bank Accounts Service"
+    version: ${build.version}

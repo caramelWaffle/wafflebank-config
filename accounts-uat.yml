@@ -1,2 +1,8 @@
 build:
   version: "4.0 (Git-UAT)"
+  
+info:
+  app:
+    name: ${spring.application.name}
+    description: "Waffle Bank Accounts Service"
+    version: ${build.version}
